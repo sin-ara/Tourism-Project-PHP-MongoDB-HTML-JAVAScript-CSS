@@ -1,0 +1,12 @@
+			 $result=$collec->find();
+foreach ($result as $res) {
+	if ($res['ID']==$id  {
+		echo "id not available !";
+	}
+
+else
+{
+$id=$_POST['id'];
+}
+}
+	
